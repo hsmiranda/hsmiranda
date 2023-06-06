@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Herberson</h1>
-<h3 align="center">Devops, Developer C, Java and, bassist, scy-fi reader, blues, jazz and heavy metal fan e blogger in [[https://hsmirandablog.blogspot.com] (https://hsmirandablog.blogspot.com/)](https://hsmirandablog.blogspot.com/](https://hsmirandablog.blogspot.com/))</h3>
+<h3 align="center">Devops, Developer C, Java and, bassist, scy-fi reader, blues, jazz and heavy metal fan e blogger in [https://hsmirandablog.blogspot.com/](https://hsmirandablog.blogspot.com/) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsmiranda&label=Profile%20views&color=0e75b6&style=flat" alt="hsmiranda" /> </p>
 
