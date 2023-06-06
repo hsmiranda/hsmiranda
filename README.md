@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Herberson</h1>
-<h3 align="center">Security Analist, Developer C, Java and bash, bassist, scy-fi reader, blues, jazz and heavy metal fan e blogger in https://hsmiranda.notion.site</h3>
+<h3 align="center">Security Analist, Developer C, Java and bash, bassist, scy-fi reader, blues, jazz and heavy metal fan e blogger in [https://hsmiranda.notion.site](https://hsmirandablog.blogspot.com/)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsmiranda&label=Profile%20views&color=0e75b6&style=flat" alt="hsmiranda" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps :)**
 
-- 📝 I regularly write articles on [https://hsmiranda.notion.site](https://hsmiranda.notion.site)
+- 📝 I regularly write articles on [https://hsmirandablog.blogspot.com/]([https://hsmiranda.notion.site](https://hsmirandablog.blogspot.com/)
 
 - 💬 Ask me about **DevOps, Linux, Kubernetes,**
 
