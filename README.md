@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps :)**
 
-- 📝 I regularly write articles on [https://hsmirandablog.blogspot.com/]([https://hsmiranda.notion.site](https://hsmirandablog.blogspot.com/)
+- 📝 I regularly write articles on [https://hsmirandablog.blogspot.com/](https://hsmirandablog.blogspot.com/)
 
 - 💬 Ask me about **DevOps, Linux, Kubernetes,**
 
