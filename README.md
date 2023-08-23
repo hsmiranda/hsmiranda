@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Herberson and  i'm a Backend Developer and Devops Enginner from Brazil.</p>
+<p align="left">My name is Herberson and  i'm a Senior Software Architect from Brazil.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Bugging since 2007<br>📚 I am currently learning DevSecOps and Quarkus Framework<br>🎯 Goals: Learn more always!<br>🎲 Curiosity: Corinthians fan, muay thai and BJJ fighter, taste of coffee and Trekking.</p>
+<p align="left">✨ Bugging since 2007<br>📚 I am currently learning quarkus Framework and Java 21 <br>🎯 Goals: Learn more always!<br>🎲 Curiosity: Corinthians fan, muay thai and BJJ fighter, taste of coffee and Trekking.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My stacks:</h2>
 
 ###
 
