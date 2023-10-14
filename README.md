@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Bugging since 2007<br>📚 I am currently learning quarkus Framework and Java 21 <br>🎯 Goals: Learn more always!<br>🎲 Curiosity: Corinthians fan, muay thai and BJJ fighter, taste of coffee and Trekking.</p>
+<p align="left">✨ Bugging since 2007<br>📚 I am currently studie Java with Quarkus, Scala, devops and security <br>🎯 Goals: Learn more always!<br>🎲 Curiosity: Corinthians fan, muay thai and BJJ fighter, taste of coffee and Trekking.</p>
 
 ###
 
