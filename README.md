@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I started my developer journey since 2006, Working with legacy systems written in Delphi and VB6, then I migration to Java and then i start a sysadmin carrier and in 2017 i return to Developer and now i world with Architecture, Java, and Scala developer <br>📚Topics I study: Java, Scala and JVM languages, Frameworks: Quarkus Framework and Spring Framework, Devops, Kubernetes and Patterns (Designer, Architeture and other) and Secure development <br>🎯 Goals: Learn more always!<br>🎲 Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekking.</p>
+<p align="left">✨ I started my developer journey since 2006, Working with legacy systems written in Delphi and VB6, then I migration to Java and then i start a sysadmin carrier and in 2017 i return to Developer and now i Tech Lead and work with Architecture, backend developer with Java and Scala <br>📚Topics I study: Java, Scala and JVM languages, Frameworks: Quarkus Framework and Spring Framework, Devops, Kubernetes and Patterns (Designer, Architeture and other) and Secure development <br>🎯 Goals: Learn more always!<br>🎲 Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekking.</p>
 
 ###
 
