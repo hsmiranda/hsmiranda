@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Bugging since 2007<br>📚 I am currently studie Java with Quarkus, Scala, devops and security <br>🎯 Goals: Learn more always!<br>🎲 Curiosity: Corinthians fan, muay thai and BJJ fighter, taste of coffee and Trekking.</p>
+<p align="left">✨ I started my developer journey since 2006, Working with legacy systems written in Delphi and VB6, then I migration to Java and then i start a sysadmin carrier and in 2017 i return to Developer and now i world with Architecture, Java, and Scala developer <br>📚 I am currently studie Java with Quarkus Framework, Scala, Devops and security <br>🎯 Goals: Learn more always!<br>🎲 Curiosity: Corinthians fan, mMay thai and BJJ fighter, taste of coffee and Trekking.</p>
 
 ###
 
