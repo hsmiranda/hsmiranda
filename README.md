@@ -1,85 +1,56 @@
-<h1 align="left">Hey What's up?</h1>
+# Herberson Miranda
+## Hey What's up?
+My name is Herberson and  I'm a senior software architect and living Brazil.
 
-###
+## About me
+I started my developer journey since 2006, Working with legacy systems written in Delphi and VB6, then I migration to Java and then I start a sysadmin carrier and in 2017 I return to Developer and now i Tech Lead and work with Architecture, backend developer with Java and Scala.
 
-<p align="left">My name is Herberson and  I'm a senior software architect and living Brazil.</p>
+Topics I study: Java, Scala and JVM languages, Frameworks: Quarkus Framework and Spring Framework, Devops, Kubernetes and Patterns (Designer, Architeture and other) and Secure development
 
-###
+Goals: Learn more always!
 
-<h2 align="left">About me</h2>
+Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekking.
 
-###
+## My stacks:
 
-<p align="left">✨ I started my developer journey since 2006, Working with legacy systems written in Delphi and VB6, then I migration to Java and then i start a sysadmin carrier and in 2017 i return to Developer and now i Tech Lead and work with Architecture, backend developer with Java and Scala <br>📚Topics I study: Java, Scala and JVM languages, Frameworks: Quarkus Framework and Spring Framework, Devops, Kubernetes and Patterns (Designer, Architeture and other) and Secure development <br>🎯 Goals: Learn more always!<br>🎲 Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekking.</p>
+- Ansible
+- Apache ActiveMQ Artemis
+- Apache Cassandra
+- Apache CouchDB
+- Apache HTTPD
+- Apache Kafka
+- Apache Tika
+- Apache Solr
+- Argo CD
+- Bash
+- C Language
+- Docker
+- Grafana
+- Java
+- Jenkins
+- kubernetes
+- Linux
+- Metabase
+- Mongodb
+- MySQL
+- Nginx
+- Oracle Database
+- Quarkus Framework
+- PostgreSQL
+- Prometheus
+- Red hat Enteprise Linux
+- Redis
+- Scala Language
+- Spring Framework
+- Tekton
+- Terraform
+- Vagrant
+- Vscode
 
-###
 
-<h2 align="left">My stacks:</h2>
+## Social Networks
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<h2 align="left">Social</h2>
-
-###
-
-<div align="left">
+<div>
   <a href="https://www.instagram.com/h.s.miranda/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
@@ -100,9 +71,9 @@
   </a>
 </div>
 
-###
+## GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=hsmiranda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hsmiranda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
