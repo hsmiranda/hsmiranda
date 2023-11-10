@@ -1,6 +1,6 @@
 # Herberson Miranda
-## Hey What's up?
-My name is Herberson and  I'm a senior software architect and living Brazil.
+
+My name is Herberson and I'm a senior software architect and living Brazil.
 
 ## About me
 I started my developer journey since 2006, Working with legacy systems written in Delphi and VB6, then I migration to Java and then I start a sysadmin carrier and in 2017 I return to Developer and now i Tech Lead and work with Architecture, backend developer with Java and Scala.
