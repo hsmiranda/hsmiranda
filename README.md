@@ -40,7 +40,6 @@ Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekki
 - Tekton
 - Terraform
 - Vagrant
-- Vscode
 
 
 ## Social Networks
