@@ -16,11 +16,7 @@ Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekki
 - Ansible
 - Apache ActiveMQ Artemis
 - Apache Cassandra
-- Apache CouchDB
-- Apache HTTPD
 - Apache Kafka
-- Apache Tika
-- Apache Solr
 - Argo CD
 - Bash
 - C Language
@@ -33,7 +29,6 @@ Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekki
 - Metabase
 - Mongodb
 - MySQL
-- Nginx
 - Oracle Database
 - Quarkus Framework
 - PostgreSQL
