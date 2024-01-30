@@ -21,7 +21,6 @@ Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekki
 - Bash
 - C Language
 - Docker
-- Grafana
 - Java
 - Jenkins
 - kubernetes
