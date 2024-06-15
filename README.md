@@ -14,22 +14,22 @@ Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekki
 ## My stacks:
 
 - Ansible
-- Apache ActiveMQ Artemis
-- Apache Cassandra
-- Apache Kafka
+- ActiveMQ
 - Argo CD
 - Bash
+- Cassandra
 - C Language
 - Docker
 - Java
 - Jenkins
+- Kafka
 - kubernetes
 - Linux
 - Metabase
 - Mongodb
 - MySQL
-- Oracle Database
-- Quarkus Framework
+- Oracle
+- Quarkus 
 - PostgreSQL
 - Prometheus
 - Red hat Enteprise Linux
@@ -38,23 +38,15 @@ Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekki
 - Spring Framework
 - Tekton
 - Terraform
-- Vagrant
-
 
 ## Social Networks
 
 <div>
-  <a href="https://www.instagram.com/h.s.miranda/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
   <a href="https://ko-fi.com/hsmiranda" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   </a>
   <a href="https://www.linkedin.com/in/herberson/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://linktr.ee/herbmi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
   <a href="https://stackoverflow.com/users/2491333/herberson-miranda" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
