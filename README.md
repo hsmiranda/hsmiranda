@@ -13,32 +13,42 @@ Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekki
 
 ## My stacks:
 
-- Ansible
-- ActiveMQ
-- Argo CD
-- Bash
-- Cassandra
-- C Language
-- Docker
-- Java
-- Jenkins
-- Kafka
-- kubernetes
-- Linux
-- Metabase
-- Mongodb
-- MySQL
-- Oracle
-- Quarkus 
-- PostgreSQL
-- Prometheus
-- Red hat Enteprise Linux
-- Redis
-- Scala Language
-- Spring Framework
-- Tekton
-- Terraform
+- Devops: 
+  - Argo CD
+  - Ansible
+  - Docker
+  - kubernetes
+  - Jenkins
+  - Openshift
+  - Tekton
+  - Terraform
+    
+- Languages:
+  - C
+  - Kotlin
+  - Java
+  - Scala
+  - Shellscript
 
+- Integration:
+  - ActiveMQ
+  - Apache Camel
+  - Kafka
+    
+- Databases:
+  - Apache Cassandra
+  - Metabase
+  - Mongodb
+  - MySQL/MariaDB
+  - Oracle
+  - PostgreSQL
+  - Prometheus
+  - Redis
+
+- Frameworks:
+  - Quarkus
+  - Spring Framework
+  
 ## Social Networks
 
 <div>
