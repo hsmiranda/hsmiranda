@@ -12,7 +12,6 @@ Goals: Learn more always!
 Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekking.
 
 ## My stacks:
-
 - Devops: 
   - Argo CD
   - Ansible
@@ -22,19 +21,17 @@ Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekki
   - Openshift
   - Tekton
   - Terraform
-    
 - Languages:
   - C
   - Kotlin
   - Java
   - Scala
   - Shellscript
-
 - Integration:
   - ActiveMQ
   - Apache Camel
   - Kafka
-    
+  - RabbitMQ
 - Databases:
   - Apache Cassandra
   - Metabase
@@ -44,7 +41,6 @@ Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekki
   - PostgreSQL
   - Prometheus
   - Redis
-
 - Frameworks:
   - Quarkus
   - Spring Framework
