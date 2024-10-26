@@ -1,49 +1,17 @@
-# Herberson Miranda
+# Miranda aka VonNaturAustreVe
 
-My name is Herberson and I'm a senior software architect and living Brazil.
+My name is Miranda Herberson, and I'm a Solution Architect with a focus on Enterprise Applications and Bitcoin development. I live in Brazil.
 
 ## About me
-I started my developer journey since 2006, Working with legacy systems written in Delphi and VB6, then I migration to Java and then I start a sysadmin carrier and in 2017 I return to Developer and now i Tech Lead and work with Architecture, backend developer with Java and Scala.
 
-Topics I study: Java, Scala and JVM languages, Frameworks: Quarkus Framework and Spring Framework, Devops, Kubernetes and Patterns (Designer, Architeture and other) and Secure development
+I started my developer journey in 2006, working with legacy systems written in Delphi and VB6. Then, I migrated to Java and began a sysadmin career. In 2017, I returned to development, and now I am a Tech Lead, working with architecture and backend development using Java and Scala.
 
-Goals: Learn more always!
+I study topics like JVM languages (Java, Scala), frameworks (Quarkus, Spring, BitcoinJ), DevOps (Kubernetes, Tekton, Ansible, Terraform, Vagrant), and architecture and design patterns. I am also interested in secure development and Bitcoin.
 
-Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekking.
+Goals: Keep learning, always!
 
-## My stacks:
-- Devops: 
-  - Argo CD
-  - Ansible
-  - Docker
-  - kubernetes
-  - Jenkins
-  - Openshift
-  - Tekton
-  - Terraform
-- Languages:
-  - C
-  - Kotlin
-  - Java
-  - Scala
-  - Shellscript
-- Integration:
-  - ActiveMQ
-  - Apache Camel
-  - Kafka
-  - RabbitMQ
-- Databases:
-  - Apache Cassandra
-  - Metabase
-  - Mongodb
-  - MySQL/MariaDB
-  - Oracle
-  - PostgreSQL
-  - Prometheus
-  - Redis
-- Frameworks:
-  - Quarkus
-  - Spring Framework
+Curiosity: Corinthians fan, Muay Thai and BJJ practitioner, coffee lover, trekking enthusiast, and a reader of books (especially Tolkien and Asimov).
+
   
 ## Social Networks
 
@@ -65,8 +33,6 @@ Curiosity: Corinthians fan, May thai and BJJ fighter, taste of coffee and Trekki
 ## GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hsmiranda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hsmiranda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hsmiranda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
-
-###
